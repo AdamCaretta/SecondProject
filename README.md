@@ -1,2 +1,2 @@
-# SecondProject
-Second Project - Learning Git - with Coder Foundry Bootcamp
+# Second Project
+Second Project - Learning Git - with Coder Foundry Bootcamp. Hello Everyone
